@@ -16,4 +16,4 @@ code
 Pull requsetler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.(Bu kötü çeviri herhalde)
 # Lisence
 Mit
-! ([Resim]()
+![Resim]()
